@@ -2,8 +2,7 @@
 
 ## Things to include in your README
 
--Sangmin Jung
--Lab 1 is complete
--
+Sangmin Jung
+Lab 1 is complete
 gcc -o piku piku.s
 ./piku
