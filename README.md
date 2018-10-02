@@ -1,6 +1,6 @@
-# CPE 315 Lab 1 -- Piku
+# CPE 315 Lab 1 -- Pi#ku
 
-Sangmin Jung\s\s
-Lab 1 is complete\s\s
-gcc -o piku piku.s\s\s
-./piku\s\s
+# Sangmin Jung
+# Lab 1 is complete\s\s
+# gcc -o piku piku.s\s\s
+# ./piku\s\s
