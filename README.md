@@ -2,4 +2,5 @@
 
 ### Sangmin Jung
 ### Lab 1 is complete
-### gcc -o piku piku.s \s \s ./piku
+### gcc -o piku piku.s  
+### ./piku
