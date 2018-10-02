@@ -1,4 +1,4 @@
-# CPE 315 Lab 1 -- Pi#ku
+# CPE 315 Lab 1 -- Piku
 
 ### Sangmin Jung
 ### Lab 1 is complete
