@@ -1,8 +1,6 @@
 # CPE 315 Lab 1 -- Piku
 
-## Things to include in your README
-
-+Sangmin Jung
-+Lab 1 is complete
-+gcc -o piku piku.s
-+./piku
+Sangmin Jung\s\s
+Lab 1 is complete\s\s
+gcc -o piku piku.s\s\s
+./piku\s\s
